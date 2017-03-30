@@ -1,0 +1,4 @@
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+msgid "Description must not be empty."
+msgstr "La description doit pas être vide."

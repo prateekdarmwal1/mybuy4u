@@ -1,0 +1,1 @@
+<?php echo $this->element('shop_detail');?>
